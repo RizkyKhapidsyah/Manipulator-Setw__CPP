@@ -1,5 +1,8 @@
 # Manipulator-Setw__CPP
-Bahan Ajar Fundamental Pemrograman C++ - Manipulator <code>setw()</code><br>
+Bahan Ajar Fundamental Pemrograman C++ - Manipulator <code>setw()</code><br><br>
+
+---
+
 <code>setw()</code> merupakan suatu fungsi manipulator yang digunakan untuk mengatur lebar 
 tampilan dilayar dari suatu nilai variabel. File header yang harus disertakan file header <code><iomanip></code>
 Bentuk penulisannya :<br><br>
